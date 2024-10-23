@@ -44,7 +44,3 @@ Durante o evento **Arena Tech**, este treinamento proporcionou uma imersão prá
 ## Contribuições
 
 Contribuições são bem-vindas! Caso tenha sugestões ou melhorias, abra uma issue ou envie um pull request.
-
----
-
-Esse README resume as demos, instruções de execução, e destaca o contexto do treinamento no evento Arena Tech da Vivo.
